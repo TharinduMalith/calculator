@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Item will render Item should render correctly 1`] = `ShallowWrapper {}`;
+
+exports[`Row will render Row should render correctly 1`] = `ShallowWrapper {}`;
